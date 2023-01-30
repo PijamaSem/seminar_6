@@ -1,4 +1,3 @@
 # seminar_6
-HomeWork
-
-123
+12321e
+112e
